@@ -12,7 +12,7 @@ El contenido estará organizado por prácticas, talleres y proyectos para facili
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - 💻 **Lenguaje:** C#
 - 🧩 **Framework:** .NET
