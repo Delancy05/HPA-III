@@ -1,0 +1,10 @@
+C:\Users\chels\source\repos\Práct2-Descuento\bin\Debug\Práctica1-Descuento.exe.config
+C:\Users\chels\source\repos\Práct2-Descuento\bin\Debug\Práctica1-Descuento.exe
+C:\Users\chels\source\repos\Práct2-Descuento\bin\Debug\Práctica1-Descuento.pdb
+C:\Users\chels\source\repos\Práct2-Descuento\obj\Debug\Práct2-Descuento.csproj.AssemblyReference.cache
+C:\Users\chels\source\repos\Práct2-Descuento\obj\Debug\Práctica1_Descuento.Form1.resources
+C:\Users\chels\source\repos\Práct2-Descuento\obj\Debug\Práctica1_Descuento.Properties.Resources.resources
+C:\Users\chels\source\repos\Práct2-Descuento\obj\Debug\Práct2-Descuento.csproj.GenerateResource.cache
+C:\Users\chels\source\repos\Práct2-Descuento\obj\Debug\Práct2-Descuento.csproj.CoreCompileInputs.cache
+C:\Users\chels\source\repos\Práct2-Descuento\obj\Debug\Práctica1-Descuento.exe
+C:\Users\chels\source\repos\Práct2-Descuento\obj\Debug\Práctica1-Descuento.pdb

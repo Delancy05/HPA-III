@@ -1,0 +1,10 @@
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\obj\Debug\Pract 3 - EstructuraIf.csproj.AssemblyReference.cache
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\obj\Debug\Pract_3___EstructuraIf.Form1.resources
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\obj\Debug\Pract_3___EstructuraIf.Properties.Resources.resources
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\obj\Debug\Pract 3 - EstructuraIf.csproj.GenerateResource.cache
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\obj\Debug\Pract 3 - EstructuraIf.csproj.CoreCompileInputs.cache
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\bin\Debug\Pract 3 - EstructuraIf.exe.config
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\bin\Debug\Pract 3 - EstructuraIf.exe
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\bin\Debug\Pract 3 - EstructuraIf.pdb
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\obj\Debug\Pract 3 - EstructuraIf.exe
+C:\Users\chels\source\repos\Pract 3 - EstructuraIf\obj\Debug\Pract 3 - EstructuraIf.pdb
