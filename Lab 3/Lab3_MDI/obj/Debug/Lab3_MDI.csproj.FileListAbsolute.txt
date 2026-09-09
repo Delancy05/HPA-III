@@ -1,0 +1,11 @@
+C:\Users\chels\source\repos\Lab3_MDI\bin\Debug\Lab3_MDI.exe.config
+C:\Users\chels\source\repos\Lab3_MDI\bin\Debug\Lab3_MDI.exe
+C:\Users\chels\source\repos\Lab3_MDI\bin\Debug\Lab3_MDI.pdb
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.csproj.AssemblyReference.cache
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.Form1.resources
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.Properties.Resources.resources
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.csproj.GenerateResource.cache
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.csproj.CoreCompileInputs.cache
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.exe
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.pdb
+C:\Users\chels\source\repos\Lab3_MDI\obj\Debug\Lab3_MDI.Form2.resources

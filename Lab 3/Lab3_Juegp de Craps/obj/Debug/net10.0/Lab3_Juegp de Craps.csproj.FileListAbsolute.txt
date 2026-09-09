@@ -1,0 +1,28 @@
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.exe
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.deps.json
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.runtimeconfig.json
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.dll
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.pdb
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.AssemblyInfoInputs.cache
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.AssemblyInfo.cs
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.csproj.CoreCompileInputs.cache
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.dll
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\refint\Lab3_Juegp de Craps.dll
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.pdb
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.genruntimeconfig.cache
+C:\Users\chels\source\repos\Lab3_Juegp de Craps\obj\Debug\net10.0\ref\Lab3_Juegp de Craps.dll
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.exe
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.deps.json
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.runtimeconfig.json
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.dll
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\bin\Debug\net10.0\Lab3_Juegp de Craps.pdb
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.AssemblyInfoInputs.cache
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.AssemblyInfo.cs
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.csproj.CoreCompileInputs.cache
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.dll
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\refint\Lab3_Juegp de Craps.dll
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.pdb
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\Lab3_Juegp de Craps.genruntimeconfig.cache
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_Juegp de Craps\obj\Debug\net10.0\ref\Lab3_Juegp de Craps.dll

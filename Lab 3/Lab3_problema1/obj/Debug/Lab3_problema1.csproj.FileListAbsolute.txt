@@ -1,0 +1,20 @@
+C:\Users\chels\source\repos\Lab3_problema1\obj\Debug\Lab3_problema1.csproj.AssemblyReference.cache
+C:\Users\chels\source\repos\Lab3_problema1\obj\Debug\EjemploGrid.Form1.resources
+C:\Users\chels\source\repos\Lab3_problema1\obj\Debug\Lab3_problema1.Properties.Resources.resources
+C:\Users\chels\source\repos\Lab3_problema1\obj\Debug\Lab3_problema1.csproj.GenerateResource.cache
+C:\Users\chels\source\repos\Lab3_problema1\obj\Debug\Lab3_problema1.csproj.CoreCompileInputs.cache
+C:\Users\chels\source\repos\Lab3_problema1\bin\Debug\Lab3_problema1.exe.config
+C:\Users\chels\source\repos\Lab3_problema1\bin\Debug\Lab3_problema1.exe
+C:\Users\chels\source\repos\Lab3_problema1\bin\Debug\Lab3_problema1.pdb
+C:\Users\chels\source\repos\Lab3_problema1\obj\Debug\Lab3_problema1.exe
+C:\Users\chels\source\repos\Lab3_problema1\obj\Debug\Lab3_problema1.pdb
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\bin\Debug\Lab3_problema1.exe.config
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\bin\Debug\Lab3_problema1.exe
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\bin\Debug\Lab3_problema1.pdb
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\obj\Debug\Lab3_problema1.csproj.AssemblyReference.cache
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\obj\Debug\EjemploGrid.Form1.resources
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\obj\Debug\Lab3_problema1.Properties.Resources.resources
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\obj\Debug\Lab3_problema1.csproj.GenerateResource.cache
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\obj\Debug\Lab3_problema1.csproj.CoreCompileInputs.cache
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\obj\Debug\Lab3_problema1.exe
+C:\Users\chels\Documents\HPA III\Lab 3\Lab3_problema1\obj\Debug\Lab3_problema1.pdb
