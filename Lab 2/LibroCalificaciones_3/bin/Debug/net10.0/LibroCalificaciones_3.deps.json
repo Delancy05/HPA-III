@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LibroCalificaciones_3/1.0.0": {
+        "runtime": {
+          "LibroCalificaciones_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibroCalificaciones_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

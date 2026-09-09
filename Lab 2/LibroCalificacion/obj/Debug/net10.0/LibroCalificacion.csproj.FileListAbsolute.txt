@@ -1,0 +1,28 @@
+C:\Users\chels\source\repos\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.exe
+C:\Users\chels\source\repos\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.deps.json
+C:\Users\chels\source\repos\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.runtimeconfig.json
+C:\Users\chels\source\repos\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.dll
+C:\Users\chels\source\repos\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.pdb
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.AssemblyInfoInputs.cache
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.AssemblyInfo.cs
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.csproj.CoreCompileInputs.cache
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.dll
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\refint\LibroCalificacion.dll
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.pdb
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.genruntimeconfig.cache
+C:\Users\chels\source\repos\LibroCalificacion\obj\Debug\net10.0\ref\LibroCalificacion.dll
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.exe
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.deps.json
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.runtimeconfig.json
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.dll
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\bin\Debug\net10.0\LibroCalificacion.pdb
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.AssemblyInfoInputs.cache
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.AssemblyInfo.cs
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.csproj.CoreCompileInputs.cache
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.dll
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\refint\LibroCalificacion.dll
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.pdb
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\LibroCalificacion.genruntimeconfig.cache
+C:\Users\chels\source\repos\Lab 2\LibroCalificacion\obj\Debug\net10.0\ref\LibroCalificacion.dll
